@@ -20,3 +20,15 @@ I am very passionate and enthusiastic about tech hence would love to inspire oth
 <a href="https://www.youtube.com/channel/UCp6u_Fl_ctxtfaK4ouS7JSw"><img src="image/youtube1.png" width= "25px"></a>
 
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Mitchelle's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=waasike&show_icons=true&hide_border=true" />
+
+</details>
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Mitchelle's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waasike" />
+
+</details>
