@@ -32,3 +32,10 @@ I am very passionate and enthusiastic about tech hence would love to inspire oth
 <img align="left" alt="Mitchelle's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waasike" />
 
 </details>
+
+<p align="left">
+  My Personal Portfolio.  &nbsp;
+  <img src="image/arrow2.png" width="30px" >
+</p>
+
+&nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; [Mitchelle Wasike- Personal Portfolio](https://waasike.github.io/My-Personal-Portfolio-Website/)
