@@ -35,7 +35,7 @@ I am very passionate and enthusiastic about tech hence would love to inspire oth
 
 <p align="left">
   My Personal Portfolio.  &nbsp;
-  <img src="image/arrow2.png" width="30px" >
+  <img src="image/arrow1.png" width="30px" >
 </p>
 
 &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; [Mitchelle Wasike- Personal Portfolio](https://waasike.github.io/My-Personal-Portfolio-Website/)
