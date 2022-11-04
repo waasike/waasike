@@ -1,5 +1,5 @@
 ## Hello ! <br>I am Mitchelle Wasike, a Junior Software Developer based in Kenya. 
-I am currently enrolled in a Software Development Program at Power Learn Project. Learning Python Programming, Dart Programming, Database Programming and Web Technology.
+I am conversant with Web Development | Web Design, Python Programming, Database Development and Dart programming which are the modules I was able to cover at Power Learn Project. 
 I am very passionate and enthusiastic about tech hence would love to inspire other young ladies to join the tech field <img src="image/staremoji.png" width="20px">
 
 ### Skills:
@@ -10,6 +10,8 @@ I am very passionate and enthusiastic about tech hence would love to inspire oth
 <a href="https://www.python.org/"><img src="image/python.png" width="30px"></a>
 <a href="https://getbootstrap.com/"><img src="image/bootstrap.png" width="30px"></a>
 <a href="http://www.figma.com/"><img src="image/figma.png" width="30px"></a>
+<a href="https://www.php.net/"><img src="image/dart.png" width="30px"></a>
+<a href="https://dart.dev/"><img src="image/php.png" width="30px"></a>
 
 
 ### Interact with me :
