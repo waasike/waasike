@@ -19,7 +19,7 @@ I am very passionate and enthusiastic about tech hence would love to inspire oth
 <a href="https://www.linkedin.com/in/mitchelle-wasike-62b99123b/"><img src="image/linkedin1.png" width= "30px"></a>
 <a href="https://www.facebook.com/waasike/"><img src="image/facebook1.png" width= "30px"></a>
 <a href="https://www.instagram.com/waasike/"><img src="image/instagram1.png" width= "30px"></a>
-<a href="https://www.youtube.com/channel/UCp6u_Fl_ctxtfaK4ouS7JSw"><img src="image/youtube1.png" width= "30px"></a>
+<a href="https://www.youtube.com/@waasike/"><img src="image/youtube1.png" width= "30px"></a>
 
 
 <details>
