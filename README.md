@@ -10,8 +10,8 @@ I am very passionate and enthusiastic about tech hence would love to inspire oth
 <a href="https://www.python.org/"><img src="image/python.png" width="30px"></a>
 <a href="https://getbootstrap.com/"><img src="image/bootstrap.png" width="30px"></a>
 <a href="http://www.figma.com/"><img src="image/figma.png" width="30px"></a>
-<a href="https://www.php.net/"><img src="image/dart.png" width="30px"></a>
-<a href="https://dart.dev/"><img src="image/php.png" width="30px"></a>
+<a href="https://dart.dev/"><img src="image/dart.png" width="30px"></a>
+<a href="https://www.php.net/"><img src="image/php.png" width="30px"></a>
 
 
 ### Interact with me :
