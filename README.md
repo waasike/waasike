@@ -40,4 +40,4 @@ I am very passionate and enthusiastic about tech hence would love to inspire oth
   <img src="image/arrow1.png" width="30px" >
 </p>
 
-&nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; [Mitchelle Wasike- Personal Portfolio](https://waasike.github.io/My-Personal-Portfolio-Website/)
+&nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; [Mitchelle Wasike- Personal Portfolio](https://mitchellewasike-portfolio.netlify.app/)
