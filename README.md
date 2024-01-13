@@ -4,9 +4,11 @@ I am conversant with Web Development alongside Web Design. I also have a great u
 ### My Skills:
 <a href="https://html.com/"><img src="image/html.png" width="30px"> <a href="https://www.google.com/search?sxsrf=ALiCzsaiuJpbfF5lmHvy_SVzdo55B8feug:1659623830041&q=CSS&stick=H4sIAAAAAAAAAONQFuLQz9U3ME43MlDiBLEMTUuyMk4xwkVPMWIImxlkl51i5AIxzYuTstOSoOKmVYbxUGZWemE6THVamimUaVRgaf6LUS4oNSexJDVFoSRfwSPE10chMS9FwSuxLDE4uSizoGQXC9xuKBOkbRErs3Nw8AQ2xltskgymH1uZ3MuOKsiFX-0PkT3xegl_qR4ra5QMAE155ILOAAAA&sa=X&ved=2ahUKEwiRp-bGtK35AhXBi_0HHYsQBuoQ-BZ6BAgDEA0&lei=h93rYqHtNvfg7_UPyZ-VCA"><img src="image/css-3.png" width="30px"></a>
 <a href="https://www.javascript.com/"><img src="image/java-script.png" width="30px"></a>
-<a href="https://www.mysql.com/"><img src="image/mysql.png" width="30px"></a>
+<a href="https://www.mysql.com/"><img src="image/c++.png" width="30px"></a>
+<a href="#"><img src="image/mysql.png" width="30px"></a>
 <a href="https://www.python.org/"><img src="image/python.png" width="30px"></a>
 <a href="https://getbootstrap.com/"><img src="image/bootstrap.png" width="30px"></a>
+<a href="#"><img src="image/c.png" width="30px"></a>
 <a href="http://www.figma.com/"><img src="image/figma.png" width="30px"></a>
 <a href="https://dart.dev/"><img src="image/dart.png" width="30px"></a>
 <a href="https://www.php.net/"><img src="image/php.png" width="30px"></a>
