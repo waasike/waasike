@@ -2,7 +2,8 @@
 I am conversant with Web Development alongside Web Design. I also have a great understanding in  Python Programming, Database Development and Dart programming. I love working with new people. New people are new experiences. My passion for technology drives me to learn even more and execute tasks meticulously. I also intend to inspire other young ladies to join the tech field <img src="image/staremoji.png" width="20px">
 
 ### My Skills:
-<a href="https://html.com/"><img src="image/html.png" width="30px"> <a href="#"><img src="image/css-3.png" width="30px"></a>
+<a href="#"><img src="image/html.png" width="30px"> 
+<a href="#"><img src="image/css-3.png" width="30px"></a>
 <a href="#"><img src="image/java-script.png" width="30px"></a>
 <a href="#"><img src="image/c++.png" width="30px"></a>
 <a href="#"><img src="image/mysql.png" width="30px"></a>
